@@ -11,7 +11,7 @@ The proposed project aims to develop a hand gesture recognition system for manag
 
 # Project Diagram  
 
-![Project Diagram](#D:\MNIST project\graph.PNG)    
+![Project Diagram](https://github.com/Damouiii/MNIST/blob/main/graph.PNG)    
 
 
 # Datasets 

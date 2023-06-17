@@ -6,12 +6,12 @@
  
 # Project Overview 
 
-Task 1: Please describe your project 
+The proposed project aims to develop a hand gesture recognition system for managing passwords. The system will use computer vision techniques and machine learning algorithms to recognize and authenticate hand gestures, providing a secure and convenient way to manage passwords. The project goals are to provide a seamless user experience, reduce the risk of security breaches, and improve password management. The project requires a team of developers with expertise in computer vision, machine learning, and software development, as well as access to hardware and software resources for development and testing. The proposed system can potentially revolutionize password management and improve user security. 
 
 
 # Project Diagram  
 
-Task 2: Please create a high level diagram of your project  
+![Project Diagram](#D:\MNIST project\graph.PNG)    
 
 
 # Datasets 
